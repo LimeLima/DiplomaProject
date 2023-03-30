@@ -1,0 +1,60 @@
+@import "https://fonts.googleapis.com/css?family=Nunito:700,500,600";
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Nunito";
+}
+body {
+    background-color: white;
+    padding-top: 50px;
+    bottom: 0px;
+    padding-bottom: 50px;
+    /*height: 1410px;*/
+}
+.main {
+    background-color: transparent;
+    border: 1px none;
+    height: 622px;
+    left: 195px;
+    position: absolute;
+    top: 160px;
+    width: 1050px;
+}
+.titles {
+    background-color:transparent;
+    color: black;
+    font-style: normal;
+    font-weight: 600;
+    height: auto;
+    left: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: auto;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #bebebe
+}
+
+th {
+    background-color: #8c8c8c;
+    color: white;
+}
+
+.addUser {
+    margin-top: 30px;
+    margin-bottom: 100px;
+}

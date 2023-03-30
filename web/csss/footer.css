@@ -1,0 +1,205 @@
+@import "https://fonts.googleapis.com/css?family=Nunito:700,500,600";
+
+footer .links {
+    font-family: "Nunito";
+    color: white;
+}
+footer a {
+    color: white;
+    font-family: "Nunito";
+}
+.footer-logo {
+    background-color: transparent;
+    height: 150px;
+    left: 196px;
+    position: absolute;
+    top: 66px;
+    width: 233px;
+}
+.footer-logo-img {
+    border: 1px none;
+    height: 150px;
+    left: 0px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 0px;
+    width: 150px;
+}
+.footer-name {
+    background-color: transparent;
+    color: white;
+    font-family: "Nunito";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    height: 18px;
+    left: 180px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 66px;
+    width: 51px;
+}
+.footer-navigate {
+    align-items: center;
+    background-color: transparent;
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    height: auto;
+    justify-content: center;
+    left: 555px;
+    position: absolute;
+    top: 94px;
+    width: fit-content;
+}
+.contact-us {
+    background-color: transparent;
+    height: 99px;
+    left: 735px;
+    position: absolute;
+    top: 89px;
+    width: 145px;
+}
+.contact-us-title {
+    background-color: transparent;
+    color: white;
+    /*font-family: var(--font-family-nunito);*/
+    /*font-size: var(--font-size-1);*/
+    font-style: normal;
+    font-weight: 600;
+    height: 20px;
+    left: 0px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: auto;
+}
+.links-social1 {
+    background-color: transparent;
+    height: 14px;
+    left: 0px;
+    position: absolute;
+    top: 35px;
+    width: 59px;
+}
+.links-social2 {
+    background-color: transparent;
+    height: 14px;
+    left: 0px;
+    position: absolute;
+    top: 65px;
+    width: 59px;
+}
+.links-social3 {
+    background-color: transparent;
+    height: 14px;
+    left: 0px;
+    position: absolute;
+    top: 95px;
+    width: 59px;
+}
+.insta-img {
+    background-color: transparent;
+    height: 20px;
+    left: 0px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 0px;
+    width: 20px;
+    margin-right: 20px;
+}
+.text-link {
+    margin-left: 30px;
+}
+.up {
+    background-color: transparent;
+    height: 30px;
+    left: 936px;
+    position: absolute;
+    top: 123px;
+    width: 17px;
+}
+.google-play {
+    background-color: black;
+    border: 1px none;
+    border-radius: 5px;
+    height: 40px;
+    left: 1095px;
+    position: absolute;
+    top: 95px;
+    width: 154px;
+    margin-bottom: 10px;
+}
+.android {
+    background-color: transparent;
+    height: 11px;
+    left: 40px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 3px;
+    width: 150px;
+    color: white;
+    font-size: 9px;
+}
+.play {
+    background-color: transparent;
+    height: 25px;
+    left: 40px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 11px;
+    width: auto;
+    color: white;
+    font-size: 18px;
+}
+.app-store {
+    background-color: black;
+    border: 1px none;
+    border-radius: 5px;
+    height: 40px;
+    left: 1095px;
+    position: absolute;
+    top: 143px;
+    width: 154px;
+}
+.download {
+    background-color: transparent;
+    height: 11px;
+    left: 40px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 3px;
+    width: auto;
+    color: white;
+    font-size: 9px;
+}
+.apple {
+    background-color: transparent;
+    height: 25px;
+    left: 40px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 11px;
+    width: auto;
+    color: white;
+    font-size: 18px;
+}

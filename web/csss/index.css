@@ -1,0 +1,275 @@
+@import "https://fonts.googleapis.com/css?family=Nunito:700,500,600";
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Nunito";
+}
+body {
+    background-color: white;
+    padding-top: 50px;
+    bottom: 0px;
+    height: 1410px;
+}
+.main {
+    background-color: transparent;
+    border: 1px none;
+    height: 622px;
+    left: 195px;
+    position: absolute;
+    top: 160px;
+    width: 1050px;
+}
+footer {
+    /*top: 877px;*/
+    background-color: #585555;
+    border: 1px none;
+    height: 278px;
+    left: -0px;
+    mix-blend-mode: normal;
+    overflow: hidden;
+    position: absolute;
+    top: 1232px;
+    width: 1440px;
+    font-family: "Nunito";
+}
+.titles {
+    background-color:transparent;
+    color: black;
+    font-style: normal;
+    font-weight: 600;
+    height: auto;
+    left: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 0px;
+    width: auto;
+}
+.post {
+    background-color: transparent;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 10px;
+    /*cursor: pointer;*/
+    height: 170px;
+    /*min-width: 1050px;*/
+    width: auto;
+    /*overflow: hidden;*/
+    position: relative;
+    top: 30px;
+    margin-bottom: 30px;
+}
+p .football {
+    background-color: transparent;
+    color: #6593D9;
+    font-style: normal;
+    /*font-weight: 500;*/
+    height: auto;
+    font-size: 15px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    width: auto;
+}
+p .language {
+    background-color: transparent;
+    color: #83D965;
+    font-style: normal;
+    /*font-weight: 500;*/
+    height: auto;
+    font-size: 15px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    width: auto;
+}
+.title2 {
+    top: 18px;
+    left: 17px;
+}
+.handmade {
+    background-color: transparent;
+    color: #D96565;
+    font-style: normal;
+    /*font-weight: 500;*/
+    height: auto;
+    font-size: 15px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    width: auto;
+}
+.nickname {
+    background-color: transparent;
+    height: auto;
+    left: 17px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 41px;
+    font-size: 14px;
+    width: auto;
+}
+.date {
+    color: #585555;
+    height: auto;
+    left: 90px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 41px;
+    font-size: 12px;
+    width: 100px;
+}
+.date2 {
+    color: #585555;
+    height: auto;
+    left: 120px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 125px;
+    font-size: 12px;
+    width: 100px;
+}
+.post-text {
+    background-color:transparent;
+    height: auto;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 62px;
+    left: 17px;
+    width: 1007px;
+    font-size: 15px;
+}
+.attachments {
+    background-color: transparent;
+    height: auto;
+    left: 930px;
+    /*letter-spacing: 0px;*/
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 86px;
+    width: auto;
+    font-size: 12px;
+    color: #585555;
+}
+.discussion {
+    background-color: transparent;
+    height: auto;
+    left: 17px;
+    color: #585555;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 106px;
+    width: auto;
+    font-size: 13px;
+}
+.replies {
+    background-color: transparent;
+    height: auto;
+    left: 88px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 107px;
+    width: auto;
+    font-size: 12px;
+    color: #585555;
+}
+.nickname2 {
+    background-color: transparent;
+    height: auto;
+    left: 25px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 123px;
+    width: auto;
+    font-size: 14px;
+}
+.reply-text {
+    background-color: transparent;
+    height: auto;
+    left: 36px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 138px;
+    width: auto;
+    font-size: 14px;
+}
+.more {
+    background-color: transparent;
+    height: auto;
+    color: #585555;
+    left: 960px;
+    letter-spacing: 0px;
+    line-height: normal;
+    mix-blend-mode: normal;
+    position: absolute;
+    text-align: left;
+    top: 20px;
+    width: auto;
+    font-size: 12px;
+}
+.banner {
+    /*cursor: pointer;*/
+    height: 300px;
+    /*left: 15%;*/
+    /*mix-blend-mode: normal;*/
+    position: absolute;
+    top: 0px;
+    width: 1050px;
+    bottom: 50px;
+}
+.content {
+    top: 50%;
+}
+.text-main {
+    top: 350px;
+}
+.empty {
+    height: 350px;
+    width: 1440px;
+}
+footer .links {
+    color: white;
+}
+footer a {
+    color: white;
+}
+.icon {
+    background-color: transparent;
+    height: 22px;
+    left: 9px;
+    mix-blend-mode: normal;
+    position: absolute;
+    top: 9px;
+    width: 20px;
+}
